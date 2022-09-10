@@ -1,4 +1,4 @@
-# Segmented-control-
+# Segmented-control
 Create segmented control programmatically
 
 
